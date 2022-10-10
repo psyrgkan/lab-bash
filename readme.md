@@ -45,9 +45,9 @@ Check the contents of the sed.txt file using `cat` command.
 16. Count the rows in `sed.txt` file from lorem folder. Look concatenate `cat` and `wc` with the pipe `|`.
 17. Count the **files** which start with `lorem` in all directories.
 
-![Image 1][pic1.png]
-![Image 2][pic2.png]
-![Image 3][pic3.png]
+![Image 1](pic1.png)
+![Image 2](pic2.png)
+![Image 3](pic3.png)
 
 ## Bonus
 
